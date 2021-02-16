@@ -10,14 +10,12 @@ Python module that generates a leaflet.js map with 10 closest film locations to 
 
 ## Installation
 
-```bash
-python setup.py
-```
+Install all the requirements with pip and clone the repository.
 
 ## Usage
 
 ```bash
-python -m movies_map
+python movies_map.py
 ```
 
 ## Requirements
