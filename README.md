@@ -1,9 +1,9 @@
 # Description
 
 <img
-src=“images/screenshot.jpg”
+src=images/screenshot.jpg
 raw=true
-alt=“Map”
+alt=Map
 />
 
 Python module that generates a leaflet.js map with 10 closest film locations to specified location.
